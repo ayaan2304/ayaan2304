@@ -1,18 +1,62 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Building scalable full-stack and AI-driven applications, with a strong interest in real-world problem solving.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects, AI/ML applications, backend systems, and data-driven products.<br><br>🧠 I’m looking for help with:<br>Advanced machine learning techniques, system design, and optimizing algorithms for performance.<br><br>🌱 I’m currently learning:<br>Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and backend scalability concepts.<br><br>💬 Ask me about:<br>DSA, AI/ML fundamentals, Python, Java, FastAPI, React, REST APIs, and project architecture.<br><br>💼 Open to work:<br>Actively seeking opportunities in Software Engineering, AI/ML Engineering, and Full-Stack Development roles.
+<!-- GitHub Profile README — github.com/ayaan2304 -->
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1A,50:172554,100:00D9FF&height=220&section=header&text=MD%20MUJTABA%20ALI&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20BUILDER%20%7C%20SECURITY%20EXPLORER&descAlignY=59&descSize=15" width="100%" alt="Header: Md Mujtaba Ali" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Building+AI+systems+that+solve+real+problems;From+prototype+to+production-ready+software;Exploring+LLMs+%7C+RAG+%7C+Agents+%7C+Security;Learn.+Build.+Break.+Improve.+Repeat." alt="Animated introduction" /></a>
+<p>
+  <a href="https://github.com/ayaan2304"><img src="https://img.shields.io/badge/GitHub-ayaan2304-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-mujtaba-ali/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayaan72075@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p><img src="https://komarev.com/ghpvc/?username=ayaan2304&label=PROFILE+VIEWS&color=00bcd4&style=flat-square" alt="Profile view counter" /></div>> whoami
+name: Md Mujtaba Ali
+focus: AI Engineering | Backend Systems | Applied Machine Learning
+building: Useful, reliable AI-powered applications
+exploring: LLMs, RAG, AI agents, system design, cybersecurity
+languages: Python, Java, JavaScript
+mindset: Build it. Measure it. Improve it.
+open_to: AI Engineer | Software Engineer | ML Engineer opportunities
+I build AI-driven products and backend applications with a focus on real-world problems. My interests sit at the intersection of applied AI, scalable software, and security. I enjoy turning ideas into working systems—and understanding how they behave beyond the demo.
+- 🔭 Building: AI-powered applications and robust API-driven systems
+- 🧠 Deepening: LLM application engineering, retrieval systems, evaluation, and system design
+- 🛡️ Exploring: Cybersecurity fundamentals and secure-by-design engineering
+- 🤝 Collaborating: Open source, AI/ML, backend, and developer-tool projects
+- 🎯 Open to: AI engineering, ML engineering, and software engineering opportunities
+> tech --stack
+<div align="center">Languages & foundations
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&theme=dark" alt="Python, Java, JavaScript, TypeScript, C, HTML, CSS" />
+Backend & frontend
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,react,nextjs,tailwind&theme=dark" alt="FastAPI, Django, Flask, Node.js, Express, React, Next.js, Tailwind CSS" />
+Data, ML & infrastructure
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongodb,mysql,postgres,docker,gcp&theme=dark" alt="PyTorch, TensorFlow, Scikit-learn, MongoDB, MySQL, PostgreSQL, Docker, Google Cloud" />
+Tools & deployment
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,firebase,supabase,vercel,linux&theme=dark" alt="Git, GitHub, GitHub Actions, Postman, Firebase, Supabase, Vercel, Linux" /></div><details>
+<summary><b>🧰 More tools I've worked with</b></summary>
+<br />
+NumPy · Pandas · Matplotlib · Plotly · Keras · MLflow · Bootstrap · Oracle · Render · Netlify · PowerShell · PHP · React Native
+</details>> current_missions
+Track	What I'm working toward
+🤖 AI engineering	Production-oriented LLM applications, RAG pipelines, agents, evaluation and observability
+⚙️ Software engineering	Clean APIs, scalable backends, DSA and system design
+🔐 Security	Networking, Linux, application security and IAM fundamentals
+🌍 Open source	Useful contributions, better documentation and reproducible projects
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/md-mujtaba-ali/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayaan72075@gmail.com) 
+> featured_builds
+Project showcase loading... I'm preparing a stronger set of public, documented projects. The best builds will appear here with live demos, architecture diagrams, measurable outcomes, and honest technical trade-offs.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayaan2304&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayaan2304&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan2304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- When your projects are ready, replace the section above with 2–4 real repositories.
+### [Project Name](https://github.com/ayaan2304/REAL-REPOSITORY)
+One-line description focused on the problem solved.
+**Stack:** Python · FastAPI · PostgreSQL
+**Proof:** Demo | Architecture | Evaluation | Tests
+-->> github --analytics
+<div align="center"><img height="170" src="https://github-stats-extended.vercel.app/api?username=ayaan2304&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=E6EDF3" alt="GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayaan2304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Most used repository languages" />
+<img src="https://streak-stats.demolab.com?user=ayaan2304&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF" alt="GitHub contribution streak" /></div>> connect --human
+<div align="center">Interested in building something useful together?
 
----
-[![](https://visitcount.itsvg.in/api?id=ayaan2304&icon=0&color=0)](https://visitcount.itsvg.in)
+AI applications, engineering collaborations, open source, or just a good technical conversation—my inbox is open.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="mailto:ayaan72075@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-00D9FF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email me" /></a>
+
+
+
+<code>while (curious) { learn(); build(); improve(); }</code>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1A,50:172554,100:00D9FF&height=110&section=footer" width="100%" alt="Footer wave" /></div>
